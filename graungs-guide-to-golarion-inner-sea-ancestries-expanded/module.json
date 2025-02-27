@@ -1,0 +1,61 @@
+{
+  "id": "graungs-guide-to-golarion-inner-sea-ancestries-expanded",
+  "title": "Graung's Guide to Golarion: Inner Sea Ancestries Expanded",
+  "version": "1.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "recommends": [
+      {
+        "id": "pf2e-feats-plus",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Graung's Guide to Golarion: Inner Sea Ancestries Expanded adds over 100 new ancestry feats and several new heritages for Azarketi, Fetchlings, Fleshwarps, Sprites, and Strix. It also includes a revamped Dogfolk ancestry, allowing for Shoony who can be based upon any breed of dog, rather than just pugs. In addition, there are two new ancestry specific archetypes— the Biological Weapon Fleshwarped for those who wish to play a heavy hitting living weapon and the Strix Rokoa for those who wish to play as the spiritual leader of their people.",
+  "authors": [
+    {
+      "name": "Ian Speidel",
+      "email": "ayespydie@gmail.com",
+      "url": "patreon.com/ayespydie",
+      "discord": "AyeSpydie",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "ancestry-feats",
+      "label": "GGtG: Inner Sea Ancestries Expanded",
+      "path": "packs/ancestry-feats",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ggtg-isea-journals",
+      "label": "GGtG: ISEA Journals",
+      "path": "packs/ggtg-isea-journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    }
+  ],
+  "media": [
+  {
+      "type": "setup",
+      "caption": "Graung's Guide to Golarion: Inner Sea Ancestries Expanded",
+      "thumbnail": "modules/graungs-guide-to-golarion-inner-sea-ancestries-expanded 2/art/preview.webp"
+}],
+  "url": "https://github.com/AyeSpydie/UchiumiNoHitobito",
+  "manifest": "https://raw.githubusercontent.com/AyeSpydie/UchiumiNoHitobito/refs/heads/main/graungs-guide-to-golarion-inner-sea-ancestries-expanded%202/module.json",
+  "download": "https://github.com/AyeSpydie/UchiumiNoHitobito/archive/refs/heads/main.zip"
+}
