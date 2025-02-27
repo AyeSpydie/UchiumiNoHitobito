@@ -1,7 +1,7 @@
 {
   "id": "graungs-guide-to-golarion-inner-sea-ancestries-expanded",
   "title": "Graung's Guide to Golarion: Inner Sea Ancestries Expanded",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -53,7 +53,7 @@
   {
       "type": "setup",
       "caption": "Graung's Guide to Golarion: Inner Sea Ancestries Expanded",
-      "thumbnail": "graungs-guide-to-golarion-inner-sea-ancestries-expanded/art/Preview.webp"
+      "thumbnail": "modules/graungs-guide-to-golarion-inner-sea-ancestries-expanded/art/Preview.webp"
 }],
   "url": "https://github.com/AyeSpydie/UchiumiNoHitobito",
   "manifest": "https://raw.githubusercontent.com/AyeSpydie/UchiumiNoHitobito/refs/heads/main/graungs-guide-to-golarion-inner-sea-ancestries-expanded/module.json",
