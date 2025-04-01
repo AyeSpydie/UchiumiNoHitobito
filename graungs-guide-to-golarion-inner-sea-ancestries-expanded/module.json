@@ -1,7 +1,7 @@
 {
   "id": "graungs-guide-to-golarion-inner-sea-ancestries-expanded",
   "title": "Graung's Guide to Golarion: Inner Sea Ancestries Expanded",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -47,6 +47,23 @@
         "ASSISTANT": "OWNER"
       },
       "system": "pf2e"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Graung's Guide to Golarion",
+      "sorting": "a",
+      "packs": [],
+      "folders": [
+        {
+          "name": "Inner Sea Ancestries Expanded",
+          "sorting": "m",
+          "packs": [
+            "ancestry-feats",
+            "ggtg-isea-journals"
+          ]
+        }
+      ]
     }
   ],
   "media": [
